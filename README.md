@@ -18,4 +18,8 @@ In a command line prompt/windows powershell, run the following command:-
 <h2>git clone https://github.com/vijaynara58/gradient-design-website.git</h2>
 
 
+
+Checkout the website here:- https://vijaynara58.github.io/gradient-design-website/
+
+
 <h3>Sources: Gradient Color Buttons :- https://uigradients.com/</h3>
